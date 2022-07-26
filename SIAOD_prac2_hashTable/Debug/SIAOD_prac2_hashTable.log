@@ -1,0 +1,7 @@
+﻿  SIAOD_prac2_hashTable.cpp
+S:\С++\SIAOD_prac2_hashTable\SIAOD_prac2_hashTable.cpp(167,23): warning C4018: '<': signed/unsigned mismatch
+S:\С++\SIAOD_prac2_hashTable\SIAOD_prac2_hashTable.cpp(179,27): warning C4018: '<': signed/unsigned mismatch
+S:\С++\SIAOD_prac2_hashTable\SIAOD_prac2_hashTable.cpp(257,12): warning C4101: 'seconds': unreferenced local variable
+S:\С++\SIAOD_prac2_hashTable\SIAOD_prac2_hashTable.cpp(256,20): warning C4101: 'end': unreferenced local variable
+S:\С++\SIAOD_prac2_hashTable\SIAOD_prac2_hashTable.cpp(256,13): warning C4101: 'start': unreferenced local variable
+  SIAOD_prac2_hashTable.vcxproj -> S:\С++\SIAOD_prac2_hashTable\Debug\SIAOD_prac2_hashTable.exe

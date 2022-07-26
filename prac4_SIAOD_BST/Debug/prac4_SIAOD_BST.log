@@ -1,0 +1,4 @@
+﻿  Base.cpp
+S:\С++\prac4_SIAOD_BST\Base.cpp(21,12): warning C4930: 'std::streampos tellp(void)': prototyped function not called (was a variable definition intended?)
+S:\С++\prac4_SIAOD_BST\Base.cpp(258): warning C4715: 'Base::FindNode': not all control paths return a value
+  prac4_SIAOD_BST.vcxproj -> S:\С++\prac4_SIAOD_BST\Debug\prac4_SIAOD_BST.exe

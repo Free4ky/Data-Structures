@@ -1,0 +1,3 @@
+﻿  Generate_unic_random.cpp
+S:\С++\Generate_unic_random\Generate_unic_random.cpp(14,40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generate_unic_random.vcxproj -> S:\С++\Generate_unic_random\Debug\Generate_unic_random.exe
